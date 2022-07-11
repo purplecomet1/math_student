@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Math Helper
+
+This website will generate two random integers between 0-100 and ask the user to find the sum. The user can also skip the current question.
+
+To run the application, clone this repository and run "npm install". Then, run "npm run dev". To build, run "npm run build". More details are provided below.
+
 ## Getting Started
 
 First, run the development server:
